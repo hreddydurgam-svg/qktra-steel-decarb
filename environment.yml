@@ -1,0 +1,7 @@
+name: steel-decarb
+dependencies:
+  - python=3.13
+  - numpy=2.4.4
+  - scipy=1.17.1
+  - matplotlib
+  - pytest

@@ -1,0 +1,21 @@
+variable,case,node,name,z,local_i,p,cluster
+intensity,all,port_chennai,Chennai Port,0.01034511,0.32963313925400733,0.0002,LL
+intensity,all,port_kamarajar,Kamarajar Port (Ennore),0.012139249999999999,0.3286203634227413,0.0002,LL
+intensity,all,port_kattupalli,Kattupalli Port,0.0125919,0.3283646095494388,0.0004,LL
+intensity,all,port_voc,"V.O. Chidambaranar Port, Thoothukudi",0.04691923,0.2943064786092896,0.0302,LL
+intensity,all,port_krishnapatnam,Krishnapatnam Port,0.01895369,0.32476000102145264,0.0002,LL
+intensity,all,port_vizag,Visakhapatnam Port,0.07216887,-0.5312984378412896,0.0098,LH
+intensity,all,port_cochin,Cochin Port,0.04873806,0.29330688765170804,0.027,LL
+intensity,all,city_chennai,Chennai,0.00972786,0.33182310645713425,0.0001,LL
+intensity,all,ind_gummidipoondi,SIPCOT Gummidipoondi,0.012361459999999998,0.3284948234559383,0.0001,LL
+intensity,all,ind_ambattur,Ambattur Industrial Estate,0.00892132,0.3322807193642862,0.0001,LL
+intensity,all,city_vellore,Vellore,0.00273236,0.33531004818924465,0.0001,LL
+intensity,all,ind_hosur,SIPCOT Hosur,0.01669044,0.32084103124163205,0.0045,LL
+intensity,all,city_coimbatore,Coimbatore,0.033636009999999994,0.3047509785029498,0.0239,LL
+intensity,all,city_salem,Salem,0.0192582,0.31941131955736163,0.0044,LL
+intensity,all,city_trichy,Tiruchirappalli,0.02330736,0.31222131601941133,0.0183,LL
+intensity,all,city_madurai,Madurai,0.03364424,0.30155543523569334,0.0338,LL
+intensity,all,city_mumbai,Mumbai,0.09345987999999998,-0.3600180074478248,0.0151,LH
+intensity,all,city_mandi,Mandi Gobindgarh,0.20197242999999998,-0.24475149355438144,0.0356,LH
+intensity,all,dri_raipur,Raipur,1.9414429800000002,1.1776085415083988,0.0413,HH
+intensity,all,dri_siltara,Siltara Industrial Area,1.9426857100000001,1.1782028723584062,0.0428,HH

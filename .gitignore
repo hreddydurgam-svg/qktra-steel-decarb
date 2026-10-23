@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+results/
+results_quick/
+results_rerun/
+_smoke/
+*.tmp

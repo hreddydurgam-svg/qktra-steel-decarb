@@ -1,0 +1,9 @@
+# ids: fo.price,freight.tariff,mat.dri_bellary.price,mat.scrap_dom.price,mat.scrap_imp.price,ng.price
+# Spearman rank correlation of monthly series in series/; pairs with < 24 overlapping months or without a series are 0
+# overlap months: fo.price~freight.tariff=0; fo.price~mat.dri_bellary.price=0; fo.price~mat.scrap_dom.price=0; fo.price~mat.scrap_imp.price=36; fo.price~ng.price=36; freight.tariff~mat.dri_bellary.price=0; freight.tariff~mat.scrap_dom.price=0; freight.tariff~mat.scrap_imp.price=0; freight.tariff~ng.price=0; mat.dri_bellary.price~mat.scrap_dom.price=0; mat.dri_bellary.price~mat.scrap_imp.price=0; mat.dri_bellary.price~ng.price=0; mat.scrap_dom.price~mat.scrap_imp.price=0; mat.scrap_dom.price~ng.price=0; mat.scrap_imp.price~ng.price=36
+1.0,0.0,0.0,0.0,0.6710424710424711,0.39665379665379663
+0.0,1.0,0.0,0.0,0.0,0.0
+0.0,0.0,1.0,0.0,0.0,0.0
+0.0,0.0,0.0,1.0,0.0,0.0
+0.6710424710424711,0.0,0.0,0.0,1.0,0.31351351351351353
+0.39665379665379663,0.0,0.0,0.0,0.31351351351351353,1.0

@@ -1,0 +1,9 @@
+id,detail,supported
+H1,median |scaled gap| 7.012e-14 % (n feasible=15 of 15),yes
+H2,evals_to_1pct n=540 p_holm=3.57e-60 A12=0.685; feasible share 0.985 vs 0.857 McNemar p_holm=6.1e-20,yes
+H3,evals_to_1pct n=540 p_holm=1 A12=0.488,no
+H4,evals_to_1pct n=540 p_holm=1.94e-30 A12=0.392 (two-sided),no
+H5,rules whose removal hurts: none; ranking by max A12: R5>R8>R6>R3>R4>R1>R7>R2,no
+H6,significant under 4 of 4 weight choices,yes
+H7,evals_to_1pct n=540 p_holm=6.25e-61 A12=0.682; feasible share 1.000 vs 0.857 McNemar p_holm=2.51e-22,yes
+H8,gap_pct n=135 p_holm=1.34e-22 A12=1.000,yes

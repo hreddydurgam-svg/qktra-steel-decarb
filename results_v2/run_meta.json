@@ -1,0 +1,30 @@
+{
+ "runs": 15,
+ "budget": 10000,
+ "n_cfg": 20,
+ "n_samples": 5000,
+ "sizes": [
+  1,
+  2,
+  3,
+  5
+ ],
+ "demand": [
+  0.8,
+  1.0,
+  1.2
+ ],
+ "cap_frac": [
+  null,
+  0.6,
+  0.3
+ ],
+ "quick": false,
+ "inputs_sha256": "0746eec3aa2d1f41013272d45d2629d4d3a96352f93fbb5882cd0d717b8337ca",
+ "correlation_sha256": "d563d4e655d96001abf9c0122c1ba89669201986e2586f2135c311885d19fd6b",
+ "constants_sha256": "71137af89f99e7b6926d50ef0cf47bfb916fdc7996b8f79d9751ae222437d422",
+ "src_sha256": "0945f37e6f3637e118d63b6c724d6226c53cd731b8f33562c573acab49bc494d",
+ "python": "3.13.14",
+ "numpy": "2.4.4",
+ "scipy": "1.17.1"
+}

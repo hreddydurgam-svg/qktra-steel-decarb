@@ -1,0 +1,2 @@
+# Store result files byte-exact so results_v2/SHA256SUMS.txt holds on every OS
+results_v2/** -text

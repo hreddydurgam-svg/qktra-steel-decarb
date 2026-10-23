@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "name": "scrap_dom",
+      "kind": "scrap",
+      "contract": false
+    },
+    {
+      "name": "scrap_imp",
+      "kind": "scrap",
+      "contract": true
+    },
+    {
+      "name": "dri_bellary",
+      "kind": "dri",
+      "contract": true
+    }
+  ],
+  "solar_tiers": [
+    "s5mw",
+    "s10mw",
+    "s20mw"
+  ],
+  "ppa_tiers": [
+    "p10mw",
+    "p20mw"
+  ]
+}

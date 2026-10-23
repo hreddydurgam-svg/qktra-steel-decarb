@@ -1,0 +1,18 @@
+﻿package 2026-10-18T11:50:04
+git HEAD: acf52c0566e11f80c37756a7d19cdd46902d2458  branch: feat/rebuild
+git status (tracked):
+python numpy scipy: 3.13.14 2.4.4 1.17.1
+cores: 16  os: Microsoft Windows 11 Home Single Language
+crosscheck results_v2:
+check        status                     ours              independent  tol
+inputs       PASS                         70                       70  0
+objective    PASS                 5095885405               5095885405  1e-09
+pareto       PASS                 5095885405               5095885405  2e-06
+moran        PASS               0.5284212653             0.5284212653  1e-09
+kernel       PASS              0.05849940988            0.05849940988  1e-10
+gap          PASS                57.34599652              57.34599652  1e-09
+evals        PASS                          0                        0  0
+stats        PASS                0.674941701              0.674941701  1e-09
+hypotheses   PASS   H1=yes,H2=yes,H3=no,H4=no,H5=no,H6 H1=yes,H2=yes,H3=no,H4=no,H5=no,H6  exact
+
+crosscheck exit: 0
