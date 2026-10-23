@@ -100,4 +100,4 @@ limitations.
 ## Licence and citation
 
 MIT Licence (see `LICENSE`). The data in `data/` are compiled from the public sources listed in `data/SOURCES.md`;
-those sources keep their own terms. Citation and DOI: [AUTHOR: add after acceptance.]
+those sources keep their own terms. 
